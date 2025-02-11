@@ -1,10 +1,5 @@
 import data from "./data.js";
 
-function formatDateToYYYYMMDD(dateStr) {
-    const [day, month, year] = dateStr.split("/");
-    return `${year}-${month}-${day}`;
-}
-
 let barChart;
 
 document.addEventListener("DOMContentLoaded", function () {
