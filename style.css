@@ -91,11 +91,9 @@ canvas {
         margin: 0;
     }
 
-
     input[type="date"] {
         margin: 23px 5px;
         padding: 6px;
-
     }
 }
 
@@ -104,7 +102,6 @@ canvas {
     #endDate {
         margin: 5px;
     }
-
 
     input[type="date"] {
         padding: 6px;
